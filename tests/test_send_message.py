@@ -10,4 +10,4 @@ def test_send_message(app):
                              "The test 'send message' is passed'. "
                              "The framework will be available in GIT"
                      )
-    # should be some verification here
+    # should be some verification  and "Press sbmit" here
